@@ -73,7 +73,7 @@ def submit_to_scoreboard(team_name: str, precision: float, recall: float, predic
         print(f"Error submitting results: {e}")
         return 1
 
-
+ 
 def main() -> int:
     # Load environment variables
     load_dotenv(ROOT_DIR / ".env")
