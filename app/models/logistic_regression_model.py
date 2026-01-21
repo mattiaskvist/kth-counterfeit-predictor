@@ -14,7 +14,7 @@ def build_model(random_state: int = 42) -> Pipeline:
                 "model",
                 LogisticRegression(
                     max_iter=1000,
-                    class_weight="balanced",
+                    class_weight={0: 1.0, 1: 3.0},
                     random_state=random_state,
                 ),
             ),

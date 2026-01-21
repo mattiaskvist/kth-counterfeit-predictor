@@ -33,6 +33,7 @@ class TestCounterfeitPredictionMachine(unittest.TestCase):
         self.test_df = pd.read_csv(test_path)
         self.machine = CounterfeitPredictionMachine()
         # Train the model once for all tests
+        print("Training...")
         self.machine._train()
 
     def test_train_runs_without_error(self) -> None:
@@ -60,6 +61,7 @@ class TestCounterfeitPredictionMachine(unittest.TestCase):
         incorrect_predictions = 0
         total_predictions = 0
 
+        print("Prediction in multiple...")
         for _, row in counterfeit_df.iterrows():
             pred = self.machine.predict(row)
             self.assertIsInstance(pred, bool)

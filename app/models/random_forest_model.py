@@ -13,10 +13,11 @@ def build_model(random_state: int = 42) -> Pipeline:
             (
                 "model",
                 RandomForestClassifier(
-                    n_estimators=300,
-                    max_depth=None,
+                    n_estimators=50,
+                    max_depth=4,
                     min_samples_leaf=2,
-                    class_weight="balanced",
+                    min_samples_split=8,
+                    class_weight={0: 1.0, 1: 3.0},
                     random_state=random_state,
                     n_jobs=-1,
                 ),

@@ -146,7 +146,7 @@ def main() -> int:
     print("=" * 40)
 
     # Submit to API
-    return submit_to_scoreboard(team_name, precision, recall, predict_time)
+    #return submit_to_scoreboard(team_name, precision, recall, predict_time)
 
 
 if __name__ == "__main__":

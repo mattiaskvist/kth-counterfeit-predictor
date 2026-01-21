@@ -13,6 +13,10 @@ def build_model(random_state: int = 42) -> Pipeline:
             (
                 "model",
                 GradientBoostingClassifier(
+                    n_estimators=150,
+                    max_depth=3,
+                    subsample=0.8,
+                    learning_rate=0.05,
                     random_state=random_state,
                 ),
             ),

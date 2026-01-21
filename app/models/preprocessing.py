@@ -58,10 +58,11 @@ class FeatureEngineer(BaseEstimator, TransformerMixin):
         bool_cols: Iterable[str] | None = None,
     ) -> None:
         self.date_col = date_col
-        self.id_cols = list(id_cols) if id_cols is not None else []
-        self.categorical_cols = list(categorical_cols) if categorical_cols is not None else []
-        self.numeric_cols = list(numeric_cols) if numeric_cols is not None else []
-        self.bool_cols = list(bool_cols) if bool_cols is not None else []
+        # Keep params as provided for sklearn cloning compatibility.
+        self.id_cols = id_cols
+        self.categorical_cols = categorical_cols
+        self.numeric_cols = numeric_cols
+        self.bool_cols = bool_cols
         self.reference_date_: pd.Timestamp | None = None
 
     def fit(self, X: pd.DataFrame, y: pd.Series | None = None) -> "FeatureEngineer":
@@ -77,14 +78,18 @@ class FeatureEngineer(BaseEstimator, TransformerMixin):
     def transform(self, X: pd.DataFrame) -> pd.DataFrame:
         X = X.copy()
         X = X.drop(columns=["label"], errors="ignore")
-        self._ensure_columns(X, self.categorical_cols + self.numeric_cols + self.bool_cols + [self.date_col])
+        categorical_cols = list(self.categorical_cols or [])
+        numeric_cols = list(self.numeric_cols or [])
+        bool_cols = list(self.bool_cols or [])
+        id_cols = list(self.id_cols or [])
+        self._ensure_columns(X, categorical_cols + numeric_cols + bool_cols + [self.date_col])
 
-        X = X.drop(columns=self.id_cols, errors="ignore")
+        X = X.drop(columns=id_cols, errors="ignore")
 
-        for col in self.bool_cols:
+        for col in bool_cols:
             X[col] = X[col].map(_BOOL_MAPPING).fillna(0).astype(int)
 
-        for col in self.numeric_cols:
+        for col in numeric_cols:
             X[col] = pd.to_numeric(X[col], errors="coerce")
 
         if self.date_col in X.columns:
