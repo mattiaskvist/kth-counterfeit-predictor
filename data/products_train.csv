@@ -1,0 +1,201 @@
+product_id,seller_id,category,brand,price,return_policy_clear,listing_date,seller_country,shipping_origin,listing_views,sales_count,saved_count,certification_badges,warranty_months,bulk_discount_available,unusual_payment_patterns,ip_location_mismatch,label
+c1ed732b,063ad42c,Electronics,CircuitMaster,85.93,True,2024-08-25,IN,CN,1593,10,1,1,3,True,False,False,0
+43fb3708,4615c800,Automotive Parts,CarTech,344.94,False,2023-09-27,KR,CA,3437,124,24,1,3,False,True,True,0
+e25e7863,4dd1c0fe,Fashion,StyleHous,92.9,True,2024-04-26,AU,KR,1260,18,19,0,17,False,True,False,1
+b57e99d6,c79b7c57,Pharmaceuticals,BioMed Solutions,65.84,False,2024-11-24,AU,KR,3543,307,66,2,20,False,False,False,0
+17e8eada,1da82edb,Fashion,StyleHouse,463.83,True,2024-03-11,US,AU,4968,241,64,0,15,True,False,False,0
+39d4df9b,9903d337,Fashion,FashionForward,220.11,False,2024-07-22,FR,JP,3684,258,27,0,9,False,False,False,0
+7047087a,5ce8379e,Pharmaceuticals,WellnessLab,159.6,True,2024-07-10,DE,GB,2971,292,6,3,12,False,False,False,0
+9f9d618d,f63edc8c,Pharmaceuticals,StyleHous,20.45,False,2024-08-25,US,JP,2004,36,9,4,3,False,False,False,1
+6a249f4a,c191d7b3,Electronics,ElectroMax,268.57,True,2024-02-11,DE,CA,4569,189,28,2,12,False,False,False,0
+64257963,01598b96,Automotive Parts,MotorMax,257.78,True,2025-05-12,DE,GB,3452,234,39,0,4,False,False,False,0
+f9663e2b,a1316f4c,Cosmetics,NaturalGlow,133.96,True,2024-02-09,AU,IN,1893,91,29,1,11,False,False,False,1
+97c1bdad,a5b56031,Electronics,CircuitMaster,247.9,False,2025-01-23,CA,IN,4204,80,12,1,4,False,False,False,0
+3b94ead4,3990b761,Automotive Parts,AutoParts Pro,477.25,False,2024-04-20,DE,AU,3791,176,75,0,20,True,False,False,0
+77fe70d9,fa077db9,Automotive Parts,CircuitMastr,55.49,False,2025-05-26,IN,DE,4370,139,80,4,18,False,False,False,1
+9556b728,89819747,Automotive Parts,VehicleCare,84.48,True,2025-06-01,KR,US,2972,102,87,1,2,False,False,False,0
+bba26439,ccb9ea21,Pharmaceuticals,MediPharm,362.45,True,2025-01-22,CA,KR,972,81,21,4,9,False,True,False,0
+490c0d93,ec11e992,Automotive Parts,AutoParts Pro,357.11,True,2025-01-21,CA,KR,4741,18,90,1,9,False,False,False,0
+94a73399,3ee47dca,Electronics,DigitalPro,155.33,True,2025-03-28,GB,CA,4915,449,29,0,9,False,False,False,0
+96bbf245,0728e1b0,Electronics,CircuitMaster,264.45,True,2024-04-09,IN,US,2227,68,13,3,5,False,False,False,0
+7081d905,4380bb6d,Cosmetics,PureSkin,307.11,True,2023-10-03,CA,US,4968,82,75,1,11,False,False,False,0
+abc55d52,4c64f707,Fashion,TrendSetter,95.89,True,2024-09-13,AU,JP,1315,112,54,0,12,True,False,False,0
+72f415dc,389c1cb5,Pharmaceuticals,HealthCare Plus,26.67,True,2023-09-26,FR,GB,305,4,3,0,21,False,False,False,1
+56b62e7c,3b0f6328,Fashion,ClassicWear,141.27,True,2025-01-10,US,CN,1688,103,75,1,14,True,False,True,1
+80b8c133,1882fc78,Cosmetics,ElectroMx,75.66,True,2025-03-22,CN,CA,2821,186,98,2,20,False,False,True,1
+e02889cf,5c1f1062,Automotive Parts,VehicleCare,159.96,True,2025-06-15,CN,DE,2573,94,23,0,22,False,False,False,0
+e3602d85,405c424e,Automotive Parts,BeautyLu×,187.99,False,2024-11-05,GB,US,1531,71,10,4,4,True,False,False,1
+242ea307,9b097e55,Pharmaceuticals,BioMed Solutions,442.93,True,2024-02-16,JP,GB,874,38,9,0,16,False,False,True,0
+4d66df99,09af83ef,Luxury Goods,PremiumCraft,467.94,True,2024-02-01,US,CA,2018,161,29,2,12,False,False,False,0
+c1e20575,51bef7f8,Automotive Parts,GlamourC0,42.59,False,2024-04-04,FR,FR,1998,45,77,2,5,False,False,False,1
+e04c8469,55e117e7,Fashion,FashionForward,147.19,False,2024-02-24,KR,KR,4604,192,88,2,20,False,False,False,1
+481ac4ab,abc9eaf2,Automotive Parts,ElectroMx,45.54,True,2024-03-22,GB,DE,4068,75,34,4,15,False,False,False,1
+63559574,f68daf9e,Luxury Goods,PremiumCraft,209.02,True,2023-10-08,CA,CA,1553,92,36,2,4,False,False,False,0
+141babd1,45ea1ce0,Luxury Goods,LuxuryBrand,411.69,False,2024-09-30,KR,CN,3420,93,22,4,7,True,False,False,0
+d43aee56,8261181c,Luxury Goods,ExclusiveItems,472.0,True,2023-12-11,DE,IN,2624,40,9,2,23,False,True,False,0
+066a4682,4aa7a95c,Electronics,ElectroMax,277.67,True,2024-09-02,GB,KR,4225,313,91,1,20,False,False,False,0
+5096153f,723f7d79,Cosmetics,BeautyLu×,82.46,True,2023-10-29,FR,US,4750,431,65,2,23,False,False,False,1
+af5ffd87,a73ee524,Automotive Parts,MotorMax,190.19,True,2025-01-24,CA,IN,1814,118,16,2,5,False,False,True,0
+040e0d46,f946fd28,Automotive Parts,FashionForward_,72.26,False,2025-06-29,CN,GB,2127,130,86,3,8,True,False,False,0
+cbe27073,5908eb87,Fashion,DigitalPr0,136.5,True,2024-03-28,IN,GB,2456,236,23,3,9,False,False,False,1
+32604f0e,34beb6ce,Pharmaceuticals,WellnessLab,208.99,True,2024-02-10,CA,IN,3901,121,82,3,12,False,False,False,0
+4e39a14e,c7862f61,Automotive Parts,AutoParts Pro,165.55,True,2024-05-15,JP,CA,4256,172,82,3,18,True,False,False,0
+6887ebc6,aff225ed,Cosmetics,PureSkin,449.6,True,2024-10-13,US,CN,3715,43,74,3,15,False,False,False,0
+c1a7b604,c9f60eda,Automotive Parts,ClassicWear.,46.24,True,2024-05-25,GB,IN,3264,167,25,2,22,False,False,False,1
+986fb34b,60da61f1,Fashion,NaturalGl0w,120.63,False,2025-01-12,KR,FR,2682,115,9,0,11,True,False,False,1
+0bb51772,58548147,Pharmaceuticals,HealthCare Plus,433.4,True,2023-07-20,FR,GB,688,11,29,4,17,False,False,False,0
+e9a0fe4a,1b3bc6f8,Luxury Goods,PremiumCraft,85.51,False,2024-05-24,FR,GB,1769,163,64,0,20,False,True,False,0
+420560de,9b4e71fb,Electronics,ElectroMx,54.84,False,2023-08-10,CN,DE,4857,248,36,4,22,False,False,True,1
+779fc0ab,0e84ee32,Cosmetics,GlamourCo,69.1,True,2024-03-07,DE,AU,3320,7,42,1,8,True,False,False,0
+3776538d,ab772c04,Fashion,FashionForward,216.06,True,2024-10-10,CN,CN,2268,30,51,1,6,True,False,False,0
+96bc9669,55ab94ac,Pharmaceuticals,BeautyLu×,72.62,True,2025-03-25,AU,GB,289,5,2,2,7,False,True,False,1
+8a21ab10,92e5de32,Cosmetics,PureSkin,283.75,True,2024-10-05,IN,DE,3140,219,56,3,5,False,False,False,0
+ea7a2fd4,4a7f9b8b,Luxury Goods,ExclusiveItems,462.68,True,2024-06-07,GB,JP,2675,223,16,3,15,True,False,False,0
+f2f9d91c,4b3fcfc0,Fashion,FashionForward,151.24,True,2023-11-28,CA,KR,2367,208,52,3,22,False,False,False,0
+551cc8e0,43f16b95,Electronics,ClassicWear.,107.91,False,2023-08-06,US,IN,782,30,15,1,8,False,False,True,1
+e4369d05,0a44f60b,Pharmaceuticals,TrendSettr,145.61,False,2025-02-21,DE,CA,258,8,8,2,23,True,False,False,1
+06f7d08c,52f4e0a3,Pharmaceuticals,BioMed Solutions,257.63,True,2023-09-11,KR,GB,220,6,9,2,4,False,False,False,0
+88bd45d0,6fed45e8,Cosmetics,PureSkin,309.3,False,2023-07-27,US,JP,2902,206,17,2,7,False,False,False,1
+33109bf3,210c0224,Pharmaceuticals,WellnessLab,213.95,True,2024-04-15,AU,KR,1623,19,51,4,3,False,False,False,0
+ce874df6,eab84488,Cosmetics,BeautyLux,444.97,True,2023-10-16,DE,CA,3995,95,55,4,6,False,False,False,0
+7db21ce6,85950912,Luxury Goods,PremiumCraft,463.67,True,2025-01-10,US,US,3438,267,54,4,4,False,False,False,0
+5babe0f7,c3be12e5,Pharmaceuticals,HealthCare Plus,108.76,True,2023-10-09,US,GB,4329,269,56,4,5,True,False,False,0
+5c041195,0d97db56,Automotive Parts,CarTech,289.1,True,2024-12-27,FR,KR,3818,300,61,3,9,True,False,False,0
+69d93e24,54758e8f,Electronics,CircuitMaster,172.51,True,2023-11-02,CA,US,437,12,10,1,1,True,False,False,1
+4c0292a5,bb043efe,Pharmaceuticals,WellnessLab,143.36,True,2024-11-05,CA,DE,1767,67,77,2,20,False,False,True,1
+116059e2,f4bef042,Electronics,TechCrop,75.08,False,2024-05-17,IN,JP,4544,313,9,3,13,False,False,True,1
+048e76da,1ee1b01a,Pharmaceuticals,BioMed Solutions,66.45,True,2024-04-02,CN,IN,2171,165,50,3,0,False,False,False,0
+881be6bb,bab7ab15,Electronics,CircuitMaster,46.55,False,2025-05-23,IN,DE,633,29,24,0,0,False,False,False,1
+90a8ea96,45104c82,Pharmaceuticals,WellnessLab,60.19,True,2024-06-28,US,DE,899,85,16,2,8,False,False,False,0
+7b23c350,ea516faf,Pharmaceuticals,MediPharm,405.77,True,2023-10-15,KR,CN,3827,60,50,1,5,False,True,True,0
+c31f8597,2b1f4287,Electronics,ElectroMax,387.93,True,2025-05-31,JP,JP,4114,27,54,2,9,False,True,False,0
+afb7f770,061017aa,Cosmetics,GlamourCo,266.2,True,2024-10-19,FR,FR,3888,140,12,1,2,False,False,True,0
+fce8f274,0f50cbdc,Fashion,StyleHouse,294.19,True,2023-11-10,CN,FR,4317,211,39,2,20,False,False,True,0
+1d0acce8,b6bc09d8,Luxury Goods,LuxuryBrand,243.24,True,2023-10-08,US,IN,1475,146,28,1,16,True,False,False,0
+4cda5aad,ca02400b,Luxury Goods,EliteDesign,171.19,True,2025-01-30,CA,JP,541,35,4,4,8,False,False,False,0
+098972ac,b4c05f78,Automotive Parts,PureSk1n,165.79,False,2024-05-08,GB,FR,1995,12,45,2,16,True,False,False,1
+8bda4730,f490cbc7,Automotive Parts,TrendSettr,152.65,False,2025-01-14,AU,JP,1351,107,54,3,11,False,True,False,1
+ca3539b1,b66a2e35,Pharmaceuticals,HealthCare Plus,170.48,True,2023-08-24,IN,CA,2477,74,17,0,23,False,False,False,0
+adbe08ab,47f95a42,Cosmetics,NaturalGlow,403.2,True,2025-03-17,DE,IN,1859,136,39,0,4,False,False,False,0
+3844e934,99af4f6c,Fashion,TrendSetter,145.68,True,2023-12-23,IN,GB,1813,74,2,3,4,False,False,False,1
+7366166d,e2eb3cdf,Automotive Parts,DigitalPr0,122.42,True,2024-10-04,US,IN,4409,415,48,3,11,False,False,False,0
+4888561c,3b443ce4,Pharmaceuticals,HealthCare Plus,177.99,True,2023-07-08,JP,CN,3514,59,45,3,8,False,False,False,1
+9aafa3e1,04c25b97,Fashion,StyleHouse,246.31,True,2025-06-28,US,IN,2813,214,14,1,2,False,False,False,0
+a0787613,e09160c2,Automotive Parts,StyleHous,129.48,True,2023-10-13,IN,KR,1308,0,24,3,23,False,False,False,1
+54bf6855,e4d18c8e,Pharmaceuticals,WellnessLab,469.73,True,2024-12-11,DE,JP,4168,216,85,2,16,False,False,False,0
+29ad15de,46df0170,Electronics,ElectroMax,270.64,True,2024-05-06,AU,JP,877,17,23,0,15,True,False,False,0
+a53ca0d1,bbda156b,Electronics,CircuitMaster,360.51,True,2024-07-06,IN,AU,2088,70,12,1,0,True,False,False,0
+83802f78,e879cf2f,Cosmetics,NaturalGlow,295.87,True,2024-05-25,AU,IN,867,77,17,4,19,False,False,False,0
+4c5db7a0,52798e87,Fashion,StyleHouse,181.62,False,2025-01-01,GB,CN,4336,66,92,0,3,False,False,True,0
+6ef1e44e,ebf046ef,Luxury Goods,ExclusiveItems,52.72,True,2023-09-11,CN,IN,2264,86,52,1,7,False,True,True,0
+382b9b65,9576f180,Luxury Goods,EliteDesign,343.98,True,2024-05-07,GB,AU,3960,204,75,1,17,False,False,False,0
+88ba74a3,6f2038bc,Pharmaceuticals,WellnessLab,423.71,False,2025-04-02,CN,IN,2276,139,62,2,3,False,False,False,0
+e23b8b02,a3ce010c,Cosmetics,TrendSettr,88.45,False,2025-06-01,AU,DE,244,19,5,0,6,False,False,False,1
+5dca847c,9bb952d3,Cosmetics,NaturalGlow,376.37,True,2024-04-10,AU,KR,1144,6,9,3,22,True,False,False,0
+ef829eb1,343e762e,Pharmaceuticals,WellnessLab,478.43,True,2024-11-27,JP,FR,2886,79,89,0,4,False,False,False,0
+ac8ef50b,394e8a2e,Fashion,StyleHouse,357.51,False,2025-03-19,CN,CA,1592,49,68,4,7,False,False,False,0
+a9954b52,61f5f626,Cosmetics,PureSkin,432.7,True,2025-05-27,KR,GB,2892,129,47,3,23,False,False,False,0
+4f3e37ef,3f1cf5a8,Pharmaceuticals,WellnessLab,198.56,False,2024-10-14,US,CA,4407,39,61,4,17,False,False,False,0
+cb522947,9900f9ca,Luxury Goods,ExclusiveItems,288.9,True,2024-12-01,FR,US,2523,216,3,1,11,False,False,True,0
+59135de9,210947ce,Pharmaceuticals,WellnessLab,411.9,False,2023-11-22,DE,CN,4281,199,24,4,8,False,False,False,0
+cbfffd30,344e7dae,Electronics,ElectroMax,59.38,False,2024-04-30,GB,CN,946,48,9,1,9,False,False,False,0
+6705322c,53bb70ee,Automotive Parts,CarTech,369.0,True,2024-09-25,IN,DE,4159,223,74,4,18,True,False,False,0
+42cb7d05,c34a3cd4,Pharmaceuticals,HealthCare Plus,354.68,True,2024-11-25,IN,AU,4521,147,73,4,8,False,False,False,0
+5ba5cd3e,d15ecb1d,Electronics,NaturalGl0w,73.57,False,2024-01-09,GB,JP,4615,66,92,4,15,False,False,False,1
+eb95b29f,a37ba7ec,Luxury Goods,LuxuryBrand,200.61,True,2023-09-15,CN,IN,4891,28,97,3,5,True,False,False,0
+d2da990f,d32abeff,Automotive Parts,MotorMax,118.45,True,2024-05-05,AU,US,3000,192,41,4,9,False,False,False,0
+6153c676,b34aadfc,Pharmaceuticals,StyleHous,137.72,True,2023-09-16,US,CN,2304,186,69,3,10,False,False,False,1
+3eb386ee,c5b0527d,Automotive Parts,AutoParts Pro,183.75,True,2024-03-01,US,GB,1497,103,64,0,14,False,False,False,0
+d10dbcfb,6fa5e56e,Automotive Parts,CarTech,308.71,False,2024-12-15,CN,AU,4424,290,44,0,23,True,False,False,0
+eccf816b,9be1af2c,Pharmaceuticals,WellnessLab,288.93,True,2023-09-01,FR,DE,1756,115,44,4,11,False,True,False,0
+2af56f43,17d458b3,Cosmetics,NaturalGlow,203.47,False,2023-10-08,AU,KR,4934,393,59,1,21,False,False,False,0
+4dca042f,d6ee1c13,Cosmetics,GlamourCo,101.02,True,2024-09-28,DE,US,4782,416,48,0,14,False,False,False,0
+86201a15,706898e3,Fashion,DigitalPr0,165.4,True,2024-09-10,CN,FR,1006,26,46,0,9,False,False,False,1
+8e33f8d9,942e2b40,Electronics,GlamourC0,58.39,False,2025-02-22,IN,US,778,15,10,2,21,False,False,True,1
+38654d22,061017aa,Automotive Parts,ClassicWear.,16.33,True,2023-07-17,US,AU,3285,57,58,0,19,False,True,True,1
+b9e647d7,add4b0fa,Electronics,TechCorp,372.81,True,2025-02-20,GB,FR,597,54,20,3,11,False,False,False,0
+b4a8d0bc,be89fb8f,Pharmaceuticals,WellnessLab,261.65,True,2024-05-31,CA,IN,1589,134,47,0,16,False,False,False,0
+541ee6b2,e3d5cd4e,Electronics,DigitalPro,462.93,True,2023-12-24,CN,JP,1998,121,40,0,1,False,False,False,0
+853232c6,37db01bc,Fashion,ClassicWear,398.74,True,2023-07-13,CA,FR,4702,330,57,3,1,False,False,False,0
+0c18f9af,c238e2fc,Luxury Goods,NaturalGl0w,164.1,False,2024-01-12,CA,DE,2154,167,79,4,18,False,False,False,1
+f17d95a8,9112571c,Cosmetics,NaturalGlow,133.03,False,2024-04-16,AU,GB,4507,147,7,4,3,False,False,True,1
+5cb1553f,c6792482,Automotive Parts,VehicleCare,251.97,True,2025-05-15,KR,CA,2480,71,17,4,12,False,False,False,0
+6d60c56e,4387462a,Pharmaceuticals,MediPharm,134.63,True,2024-03-29,US,DE,3660,235,71,3,11,False,False,False,0
+9df7c531,657150c1,Pharmaceuticals,MediPharm,307.72,True,2023-12-06,CA,AU,942,59,31,4,9,False,False,False,0
+f5cc4d8a,d87525d0,Luxury Goods,ClassicWear.,138.13,True,2024-03-02,KR,JP,2503,248,75,2,4,True,False,False,1
+81e89374,377dc443,Fashion,FashionForward,250.68,True,2024-03-06,CN,CN,4724,140,75,0,3,False,False,False,0
+f36b94ac,84a32335,Cosmetics,NaturalGlow,480.77,True,2025-02-04,AU,DE,1606,122,34,1,17,False,False,True,0
+501ce5eb,b37697cd,Electronics,NaturalGl0w,53.77,True,2025-02-02,FR,GB,1780,120,63,1,20,False,False,False,1
+33880e9d,03745997,Pharmaceuticals,HealthCare Plus,379.48,True,2024-11-07,IN,FR,3227,11,74,4,18,False,False,False,0
+8cc498b3,5bc2e81a,Automotive Parts,FashionForward_,80.1,True,2025-03-17,KR,JP,3391,70,51,4,7,False,False,False,0
+0f21833b,89c75707,Luxury Goods,ElectroMx,46.02,False,2024-12-11,IN,JP,1887,114,38,2,8,False,False,True,1
+d3ae4315,34ecd4e1,Luxury Goods,EliteDesign,329.84,True,2024-11-25,CN,CN,3887,19,18,4,16,False,False,False,0
+87c6d62b,8bcb27ff,Electronics,PureSk1n,102.05,False,2025-06-25,AU,AU,3400,173,44,0,17,True,False,False,1
+86df308f,66d6beac,Cosmetics,GlamourCo,189.01,True,2025-06-05,IN,GB,1446,60,26,3,13,False,True,False,0
+b7877219,da1b60bd,Pharmaceuticals,BioMed Solutions,388.64,True,2024-08-17,GB,CA,4290,114,64,0,21,False,False,False,0
+6a9c0df2,bdc6e367,Cosmetics,GlamourC0,101.35,True,2025-06-05,IN,GB,912,63,7,0,2,False,False,True,1
+6494b45c,ca2ad1a8,Automotive Parts,CarTech,390.27,True,2024-02-05,KR,US,3953,247,64,0,20,False,True,False,0
+c3a7c7f4,007728b3,Automotive Parts,CarTech,403.34,True,2024-04-04,CN,CA,470,7,7,3,14,False,False,False,0
+c8ceb8f2,ab097ef2,Automotive Parts,VehicleCare,371.27,True,2023-07-16,JP,DE,3749,36,16,4,23,True,False,False,0
+ccc100fc,a43d7222,Luxury Goods,PremiumCraft,50.08,False,2023-11-18,DE,AU,3600,277,80,1,16,False,False,False,0
+177792b9,89f481b9,Pharmaceuticals,WellnessLab,174.34,True,2023-11-26,US,DE,4899,167,28,0,17,True,False,False,0
+bce77b6f,7925efdb,Pharmaceuticals,BioMed Solutions,74.8,True,2025-05-21,FR,IN,3945,240,98,3,11,False,False,False,0
+a5f20aef,61f5f626,Electronics,ElectroMax,425.5,True,2025-01-05,KR,DE,3732,303,42,2,21,False,True,False,0
+b0f9c030,0151fee1,Cosmetics,BeautyLux,492.81,True,2024-04-04,IN,FR,966,16,32,3,16,False,False,False,0
+394b203d,02274108,Fashion,ClassicWear,343.92,False,2024-08-11,FR,IN,2267,114,96,2,22,False,False,False,0
+28f7636c,ce441557,Cosmetics,PureSk1n,187.03,False,2024-01-19,CN,AU,2475,176,53,1,7,False,False,False,1
+4513f9ed,7df1347e,Automotive Parts,CarTech,477.02,True,2024-08-20,IN,GB,1008,70,35,4,22,False,False,False,0
+0ad4aa21,cc5e32a2,Luxury Goods,EliteDesign,303.25,True,2023-08-19,IN,US,3331,135,62,2,22,True,False,False,0
+db285bcf,69556bf1,Automotive Parts,MotorMax,310.91,True,2024-10-05,KR,KR,4029,111,46,0,3,False,False,False,0
+9e4859b4,626368f6,Fashion,StyleHouse,191.74,False,2025-06-12,CN,GB,1989,17,61,3,0,False,True,False,0
+d21a3b20,dc86bc4b,Cosmetics,NaturalGlow,344.54,True,2025-04-04,AU,CA,1350,36,29,0,10,False,False,False,0
+eaef6baf,f390be3f,Electronics,ElectroMx,160.92,True,2024-03-23,DE,US,4017,384,1,0,6,False,False,False,1
+f5fb57da,50d5ddf9,Electronics,ElectroMax,57.75,True,2025-04-06,DE,IN,3160,41,40,0,2,False,False,False,1
+18598c7a,bd02a8a6,Electronics,DigitalPro,140.41,True,2023-07-23,JP,JP,2785,160,38,4,18,True,False,False,0
+9e0cafe9,a4d259a5,Cosmetics,BeautyLux,66.53,True,2025-05-18,KR,JP,4471,160,35,3,12,False,False,False,0
+c93ae9e5,0b90e10c,Automotive Parts,TrendSettr,152.79,False,2025-04-21,DE,FR,607,37,22,2,2,False,False,False,1
+991a0951,02913203,Fashion,ClassicWear,168.8,True,2025-04-02,DE,AU,1327,7,65,3,4,False,False,False,0
+1f40417f,4419c198,Automotive Parts,AutoParts Pro,149.01,True,2024-01-06,DE,KR,813,9,13,3,21,False,False,False,0
+c7875f83,9c74503a,Pharmaceuticals,WellnessLab,65.29,False,2025-05-05,US,CA,1550,54,18,0,23,True,False,False,1
+787c442a,d4fe73b6,Luxury Goods,EliteDesign,337.21,True,2023-12-21,IN,US,1350,28,37,2,23,True,False,False,0
+b7075937,9ab78258,Automotive Parts,CarTech,396.97,False,2023-11-09,US,GB,934,87,18,4,15,False,False,False,0
+c6be93c9,e7d2f388,Luxury Goods,ExclusiveItems,340.2,True,2024-09-01,CN,GB,2518,97,29,4,0,False,False,False,0
+76ecbf5a,d79ba1b6,Electronics,CircuitMaster,125.18,True,2024-08-04,KR,KR,2178,149,24,0,11,True,False,False,0
+c10e65d2,2876ba6b,Fashion,StyleHouse,275.57,True,2025-04-02,IN,GB,3801,264,31,3,0,False,False,False,0
+4ed819f6,88edae81,Luxury Goods,ExclusiveItems,488.07,False,2024-09-29,KR,FR,4510,199,25,1,16,False,False,False,0
+c2258d49,79e15083,Luxury Goods,ExclusiveItems,168.14,True,2024-12-14,IN,FR,1673,17,32,0,13,False,False,False,0
+0e72eb28,050d0d7b,Electronics,TechCorp,257.07,True,2024-07-13,DE,US,1369,25,42,4,22,False,True,False,0
+11727b99,b727e561,Luxury Goods,PremiumCraft,436.1,True,2024-12-16,DE,GB,3215,65,8,3,12,False,False,False,0
+cae55672,82f216dc,Automotive Parts,MotorMax,110.47,True,2023-12-22,IN,US,1970,164,6,4,0,False,False,False,0
+c673e1e6,e727b48c,Fashion,NaturalGl0w,18.69,False,2025-03-08,KR,US,2438,203,6,4,10,False,False,False,1
+8822cc73,f37d0c0e,Automotive Parts,AutoParts Pro,194.3,True,2025-01-20,JP,IN,3841,40,55,2,5,False,False,False,0
+d38a42a5,07e75e1e,Automotive Parts,MotorMax,260.74,False,2024-02-09,CA,US,3377,240,88,2,3,False,False,False,0
+469ec919,3bacb457,Automotive Parts,CarTech,297.79,True,2025-03-22,FR,DE,176,14,4,2,18,True,False,False,0
+a9635734,9b543168,Electronics,FashionForward_,44.46,False,2025-04-27,IN,JP,4236,184,13,2,3,False,False,False,1
+91aa5797,f0ceb195,Electronics,TechCorp,130.65,True,2025-03-03,DE,DE,1751,1,75,2,16,False,False,False,0
+c596a08f,f64a6224,Electronics,TechCorp,68.48,True,2023-08-24,CN,CA,2525,3,7,1,2,False,True,False,0
+c4bff212,42e3b14a,Automotive Parts,AutoParts Pro,74.73,False,2024-07-04,KR,IN,4453,236,37,3,5,False,False,False,0
+d96faec3,53bb70ee,Electronics,ElectroMax,65.56,True,2024-07-09,US,GB,1492,118,29,3,21,False,False,False,1
+65353e21,d52fd644,Fashion,TrendSetter,283.54,True,2024-04-27,US,KR,1275,102,10,2,22,False,False,True,0
+ad7d935e,9503066c,Electronics,CircuitMaster,79.96,True,2024-08-09,CN,AU,1419,131,40,1,17,False,False,False,0
+fcc41690,29512b9e,Pharmaceuticals,BioMed Solutions,135.08,False,2024-08-24,JP,JP,1858,80,87,2,19,True,False,False,0
+4a6bc6c6,2888d383,Fashion,TrendSetter,336.9,True,2025-01-06,JP,DE,4503,358,26,0,14,False,False,False,0
+874c7f5c,ad59fcc5,Electronics,CircuitMaster,227.84,True,2024-01-17,CN,DE,2029,93,64,2,6,True,False,True,0
+ab9ca9b7,aeb941fc,Electronics,TrendSettr,107.82,False,2024-01-21,US,IN,2820,277,59,0,21,False,False,False,1
+ec6fcb60,a7c735d0,Pharmaceuticals,StyleHous,37.0,True,2024-07-19,JP,FR,1625,19,80,2,14,False,False,False,0
+19a405eb,85b9f858,Electronics,BeautyLu×,43.84,True,2024-12-10,IN,DE,3648,185,46,2,20,False,False,False,1
+a13222c7,55530c4b,Pharmaceuticals,MediPharm,87.62,False,2024-03-03,GB,JP,1252,3,47,4,17,False,False,True,0
+3b2dcb00,6c4adce8,Luxury Goods,LuxuryBrand,222.13,True,2023-08-06,CN,CA,4474,142,37,0,16,True,True,False,0
+914fc5dd,53c7d482,Cosmetics,ClassicWear.,112.79,False,2024-11-28,US,FR,3092,145,34,3,23,False,False,True,1
+87b02bec,20d578b3,Cosmetics,BeautyLux,259.37,False,2023-09-06,US,CA,1119,30,42,1,23,True,False,False,1
+d347c74a,117d8ac4,Luxury Goods,LuxuryBrand,315.87,True,2024-12-09,DE,IN,3061,107,4,3,5,False,False,False,0
+108fa80e,3994ef50,Pharmaceuticals,ElectroMx,95.29,True,2024-10-07,CN,DE,146,6,2,3,12,False,False,True,1
+1a0bc2e2,a03bf26b,Luxury Goods,FashionForward_,128.63,False,2024-02-12,IN,JP,3557,353,30,4,18,False,False,True,1
+b2695281,41d6c2e8,Electronics,CircuitMaster,90.44,True,2024-03-08,KR,AU,1718,163,21,4,3,True,False,False,0
+bd251af8,bce8090a,Luxury Goods,PremiumCraft,83.05,False,2024-10-16,CN,IN,859,78,24,4,19,False,False,False,0
+f77a03b6,9158dfb0,Electronics,TechCorp,464.01,False,2024-05-09,JP,DE,937,63,11,3,18,True,False,False,0
+bed7316f,343d848b,Fashion,TrendSetter,69.62,True,2024-04-07,US,FR,3990,181,2,4,9,False,True,False,0
+3d444679,09b6dc64,Automotive Parts,PureSk1n,26.31,False,2023-09-07,AU,JP,3649,237,25,4,16,False,False,True,1
+08a4aa9c,eab84488,Pharmaceuticals,WellnessLab,252.82,True,2023-07-07,KR,US,461,20,4,2,20,False,False,False,0
+f7eafb75,8894e508,Cosmetics,ElectroMx,112.16,False,2024-12-08,KR,US,3973,230,98,4,20,False,False,False,1
+95e1f86b,50bad52f,Fashion,ClassicWear,82.24,True,2025-05-31,JP,DE,320,8,4,3,14,False,False,False,0

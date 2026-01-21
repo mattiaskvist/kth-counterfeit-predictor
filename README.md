@@ -1,0 +1,99 @@
+# 🕵️ Counterfeit Product Detection Challenge
+
+Can you build a model that detects counterfeit products? You have **1 hour** to create the best solution. 
+
+## 🎯 The Challenge
+
+You are given a dataset of e-commerce product listings. Each listing has various features like seller rating, price, shipping time, etc. Your task is to predict whether a product is **genuine** (`False`) or **counterfeit** (`True`).
+
+The team with the best combination of **accuracy** and **speed** wins! 🏆
+
+## 📊 Dataset
+
+The data is in the `data/` folder:
+
+| File | Rows | Purpose |
+|------|------|---------|
+| `products_train.csv` | 1000 | Training your model |
+| `products_test.csv` | 100 | Local testing |
+| `products_eval.csv` | 500 | Final evaluation (used by submit script) |
+
+### Features Available
+
+- `category`
+- `brand`
+- `price`
+- `seller_rating`
+- `shipping_time_days`
+- And more...
+
+## 🛠️ Setup
+
+### 1. Install dependencies
+
+```bash
+python -m venv .venv
+source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+pip install -r requirements.txt
+```
+
+### 2. Configure environment
+
+Copy the example environment file and add your API key and set your team name:
+
+```bash
+cp .env.example .env
+```
+
+Edit `.env` and set:
+
+```
+TEAM_NAME=YourTeamName
+OPENAI_API_KEY=sk-your-key-here
+```
+
+## 💻 Your Task
+
+Edit `app/counterfeit_prediction_machine.py` to implement your solution. You are free to make large changes as long as:
+
+1. The `predict()` method must:
+   - Take a single product row as a `pd.Series`
+   - Return `True` if counterfeit, `False` if genuine
+2. You are **only** allowed to train on the train dataset
+3. No obvious cheating! 🚨 Top scoring teams will need to walk through their solutions live - public shaming will be delivered for cheaters!
+
+## 🧪 Running Tests
+
+Validate your implementation passes the basic tests:
+
+```bash
+python -m unittest test_categorization_machine -v
+```
+
+The tests check:
+- ✅ Your model can be trained without errors
+- ✅ Predictions return boolean values (True/False)
+- ✅ Prediction speed is reasonable (< 0.4s average per prediction)
+
+## 🚀 Submitting Results
+
+Submit your results to the live scoreboard! Feel free to submit as often as you want, just don't kill the API please! 🙏
+
+```bash
+python submit_results.py
+```
+
+⚠️ **Warning:** The submit script will abort if your predictions are too slow. Make sure your solution is efficient!
+
+## 📈 Scoring
+
+Your overall score is based on Accuracy, Precision, Recall and Speed. The best overall solution will win!
+
+## 💡 Tips
+
+- Look at the feature columns - some are very predictive!
+- Think about the new and old way of dealing with classification problems!
+- You are on the clock, split up the task/research among you in the team!
+- Reach out to our TT colleagues if you find yourself in a pickle!
+
+Good luck and have fun! 🎉
